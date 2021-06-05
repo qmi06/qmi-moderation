@@ -1,0 +1,29 @@
+{
+    "kayıtsızrolid": "",
+    "Ban": {
+        "banyetkiliid": "",
+        "banlogkanalid": ""
+    },
+    "Warn": {
+        "warnyetkiliid": "",
+        "warnlogkanalid": ""
+    },
+    "Kick": {
+        "kickyetkiliid": "",
+        "kicklogkanalid": ""
+    },
+    "Mute": {
+        "muteyetkiliid": "",
+        "muterolid": "",
+        "mutelogkanalid": ""
+    },
+    "Jail": {
+        "jailyetkiliid": "",
+        "jailrolid": "",
+        "jaillogkanalid": ""
+    },
+    "Emojiler": {
+        "başarılıemojiid": "",
+        "başarısızemojiid": ""
+    }
+}

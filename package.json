@@ -1,0 +1,44 @@
+{
+  "//1": "AceBots Gelişmiş Public Moderasyon Altyapısı",
+  "//2": "Abone Olmayı Unutmayın!",
+  "//3": "Projeyi Gizliye Alıp 'ÖNEMLİ' Kısmını Okumayı Unutmayınız...",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "Gelişmiş Public Moderasyon Botu Altyapısı",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "chalk": "^4.0.0",
+    "discord-anti-spam": "^2.5.0",
+    "discord-logs": "^1.7.7",
+    "discord-reply": "^0.1.2",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "http": "^0.0.0",
+    "jimp": "^0.12.1",
+    "moment": "^2.26.0",
+    "moment-duration-format": "^2.2.2",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.1",
+    "request": "^2.88.2",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "ytdl-core": "^2.1.5"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://qmi-moderasyon.glitch.me"
+  },
+  "license": "GPL-3.0",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
