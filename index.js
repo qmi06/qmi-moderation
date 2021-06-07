@@ -119,5 +119,5 @@ client.on("guildMemberAdd", member => {
   }
 });
 
-client.login('ODQ1NTYxNzI5OTMyNzIyMTg3.YKiwug.wzPv_BLO_yVA9bSYYGaC_weoMp8'),
+client.login(ayar.token),
   console.log('Bot başarıyla giriş yaptı.')
