@@ -7,7 +7,7 @@ client.commands = new Discord.Collection();
 const id = require('./Settings/idler.json')
 const ayar = require('./Settings/config.json')
 global.conf = ayar;
-const prefix = '.'
+const prefix = ayar.prefix
 
 const commandFiles = fs.readdirSync('./commands/').filter(file => file.endsWith('.js'));
 for (const file of commandFiles) {
